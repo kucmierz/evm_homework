@@ -14,11 +14,11 @@ Entdecker-Bonus to platforma korzyści evm, która co miesiąc oferuje nowe ofer
 Platforma korzyści opiera się na oddzielnej bazie danych, w której przechowywane są niektóre dane użytkowników Entdecker-Bonus.
 Pozostałe dane klientów i affinity są przechowywane w innych systemach źródłowych evm.
 Z tego powodu w załączniku znajdują się 3 zanonimizowane rekordy danych csv zawierające różne dane źródłowe.
-W explorer-bonus-customers.csv znajdują się wszyscy klienci explorer-bonus i ich wykupy, w tym daty różnych ofert.
+W Entdecker-bonus-customers.csv znajdują się wszyscy klienci Entdecker-bonus i ich daty wykorzystania różnych ofert.
 Customerview.csv zawiera unikalnego klienta i jego miejsce zamieszkania oraz dodatkowy identyfikator, który można połączyć z tabelą affinity.
 
 Affinitaeten.csv zawiera 79 dodatkowych atrybutów (Attr 1-79), które mogą być używane dla różnych cech klientów i cech z różnymi ocenami.
-klientów i cech z różnymi skalami ocen. Znaczenie poszczególnych atrybutów poszczególnych atrybutów nie jest istotne dla tego zadania.
+Znaczenie poszczególnych atrybutów nie jest istotne dla tego zadania.
 
 ## EN
 Entdecker-Bonus is evm's benefits platform, which offers new regional offers, discounts and other surprises exclusively for evm customers every month. 
